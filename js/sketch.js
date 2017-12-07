@@ -3,5 +3,5 @@ function setup(){
 }
 
 function draw(){
-
+  console.log(2);
 }
